@@ -305,6 +305,8 @@ ggplot(beauty, aes(x = eval, y = beauty)) +
 ```
 
 1.  Is the relationship between the two variables  positive or negative? What does this mean in context of the data?
+Answer:
+There is a positive correlation between these two variables, which means that the higher the student's evaluation of the teaching performance, the more beautiful the professor is.
 
 🧶 ✅ ⬆️ *Now is a good time to commit and push your changes to GitHub with an appropriate commit message. Commit and push all changed files so that your Git pane is cleared up afterwards. Make sure that your last push to the repo comes before the deadline. You should confirm that what you committed and pushed are indeed in your repo that we will see by visiting your repo on GitHub.*
 
